@@ -1,11 +1,3 @@
 title: MegaSell
-email: contacto@megasell.com
-description: >- 
-  Sitio oficial de MegaSell. Conoce más sobre nosotros, nuestros productos y cómo contactarnos.
-baseurl: "" # deja vacío si estás usando GitHub Pages sin carpeta
+baseurl: "/megasell"
 url: "https://arevaloseidy.github.io"
-
-theme: minima
-
-plugins:
-  - jekyll-feed

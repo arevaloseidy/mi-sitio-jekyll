@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Inicio
-permalink: /
 ---
 
 # Bienvenido a MegaSell

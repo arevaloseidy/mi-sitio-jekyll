@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Catálogo de Productos
+title: Catálogo
 Permalink: /catalog/
 ---
 
