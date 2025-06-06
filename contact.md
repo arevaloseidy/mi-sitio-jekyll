@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Contacto
-Permalink: /contact/
+permalink: /contact/
 ---
 
 # Contáctanos
@@ -13,3 +13,7 @@ Si tienes alguna pregunta o deseas más información, puedes contactarnos:
 - **Dirección:** Avenida Las Americas 6-32, Zona 13, Guatemala
 
 ---
+
+[Inicio]({{ '/' | relative_url }}) |  
+[Misión y Visión]({{ '/about/' | relative_url }}) |  
+[Catálogo]({{ '/catalog/' | relative_url }})
