@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Contacto
+Permalink: /contact/
 ---
 
 # Contáctanos

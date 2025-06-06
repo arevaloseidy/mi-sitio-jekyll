@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Catálogo de Productos
+Permalink: /catalog/
 ---
 
 # Catálogo de Productos

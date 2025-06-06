@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Misión y Visión
+Permalink: /about/
 ---
 
 ## Nuestra Misión
