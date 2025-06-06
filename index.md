@@ -12,7 +12,8 @@ Conoce más sobre nosotros, nuestros productos y cómo contactarnos.
 
 ## Navegación
 
-- [Misión y Visión](/about/)
-- [Catálogo de Productos](/catalog/)
-- [Contacto](/contact/)
+- [Misión y Visión]({{ '/about/' | relative_url }})
+- [Catálogo de Productos]({{ '/catalog/' | relative_url }})
+- [Contacto]({{ '/contact/' | relative_url }})
+
 
