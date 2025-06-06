@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <title>{{ page.title }} | {{ site.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
+  </head>
+  <body>
+    <header>
+      <h1>{{ site.title }}</h1>
+      <nav>
+        <ul>
+          <li><a href="{{ '/' | relative_url }}">Inicio</a></li>
+          <li><a href="{{ '/about/' | relative_url }}">Misión y Visión</a></li>
+          <li><a href="{{ '/catalog/' | relative_url }}">Catálogo de Productos</a></li>
+          <li><a href="{{ '/contact/' | relative_url }}">Contacto</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <main>
+      {{ content }}
+    </main>
+
+    <footer>
+      <p>&copy; {{ site.title }} - {{ site.email }}</p>
+    </footer>
+  </body>
+</html>
