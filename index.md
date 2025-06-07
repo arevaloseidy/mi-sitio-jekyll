@@ -3,7 +3,7 @@ layout: default
 title: Inicio
 ---
 
-# Bienvenido a MegaSell
+# Bienvenido a Bella Boutique
 
 Este es el sitio web oficial de nuestra empresa.  
 Conoce más sobre nosotros, nuestros productos y cómo contactarnos.
