@@ -2,3 +2,6 @@ title: Bella Boutique
 baseurl: "/mi-sitio-jekyll"
 url: "https://arevaloseidy.github.io"
 
+collections:
+  proyectos:
+    output: true

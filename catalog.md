@@ -32,6 +32,22 @@ Descripción: Reloj resistente al agua, ideal para actividades deportivas.
 
 ---
 
+# Proyectos Destacados
+
+Estos son algunos de nuestros proyectos recientes:
+
+<ul>
+  {% for proyecto in site.proyectos %}
+  <li>
+    <h2>{{ proyecto.title }}</h2>
+    <p><strong>Descripción:</strong> {{ proyecto.descripcion }}</p>
+    <p>{{ proyecto.content }}</p>
+  </li>
+  {% endfor %}
+</ul>
+
+---
+
 [Inicio]({{ '/' | relative_url }}) |  
 [Misión y Visión]({{ '/about/' | relative_url }}) |  
 [Contacto]({{ '/contact/' | relative_url }})
