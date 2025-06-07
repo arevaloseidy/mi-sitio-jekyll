@@ -11,6 +11,21 @@ Conoce más sobre nosotros, nuestros productos y cómo contactarnos.
 
 ---
 
+## Nuestros Proyectos
+
+<ul>
+  {% for proyecto in site.proyectos %}
+    <li>
+      <h3>{{ proyecto.title }}</h3>
+      <p>{{ proyecto.descripcion }}</p>
+      <p>{{ proyecto.content }}</p>
+    </li>
+  {% endfor %}
+</ul>
+
+---
+
+
 ## Navegación
 
 - [Misión y Visión]({{ '/about/' | relative_url }})
